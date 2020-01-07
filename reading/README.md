@@ -244,7 +244,7 @@ There is a ton of links to extra reading and videos through out the material. Oc
 ### Must Read
 
 [PRinty# C with ABC](http://www.cs.cmu.edu/~tom7/abc/paper.pdf) - Dr. Tom Murphy VII, Ph.D  
-
+[I coached 101 CEOs, founders, VCs and other executives in 2019: These are the biggest takeaways](https://leowid.com/2019-2) - Leo Widrich  
 
 ### Go 2
 
